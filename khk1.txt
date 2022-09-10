@@ -1,0 +1,5 @@
+In this approach, the idea is to solve the task by developing
+our own logic. Without using any built-in function of Python, the total number
+of characters, words, spaces and lines of the file will be calculated.
+Below is the implementation of the above approach.
+
